@@ -1,0 +1,6 @@
+pulseaudio (666) unstable; urgency=medium
+
+  [ Mirek Kratochvil ]
+  * Initial Release.
+
+ -- Mirek Kratochvil <exa.exa@gmail.com>  Thu, 28 Sep 2017 15:32:52 +0200
